@@ -1,0 +1,6 @@
+body { font-family: -apple-system, sans-serif; background: #fafafa; text-align: center; }
+.container { max-width: 800px; margin: 40px auto; padding: 20px; background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+.button { background: #ffcc00; padding: 10px 20px; border-radius: 8px; cursor: pointer; font-weight: bold; }
+input[type="file"] { display: none; }
+.canvas-container { margin-top: 20px; overflow: hidden; border-radius: 8px; }
+canvas { max-width: 100%; height: auto; }
